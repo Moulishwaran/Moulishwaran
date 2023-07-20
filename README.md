@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **moulish0809@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1wsrw0AKikfPGNn9yI5ABbucagwDgSTj4/view?usp=share_link
+- 📄 Know about my experiences https://drive.google.com/file/d/17tS-IaTvgJ3v77Qa8R8ynI4dbbBf04BF/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
