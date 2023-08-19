@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moulishwaran&label=Profile%20views&color=0e75b6&style=flat" alt="moulishwaran" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 
 
 - 💬 Ask me about **HTML CSS JAVASCRIPT REACTJS NODEJS EXPRESSJS**
 
