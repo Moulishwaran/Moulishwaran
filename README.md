@@ -75,12 +75,12 @@
 
   <!-- Kali Linux -->
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.xda-developers.com/kali-linux/" alt="Kali Linux" width="40" height="40"/>
+    <img src="https://thenewstack.io/how-kali-linux-can-help-security-test-your-network/" alt="Kali Linux" width="40" height="40"/>
   </a>
 
   <!-- Burp Suite -->
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" alt="Burp Suite" width="40" height="40"/>
+    <img src="https://bishopfox.com/blog/pentester-reviews-latest-burp-suite-addition" alt="Burp Suite" width="40" height="40"/>
   </a>
 
   <!-- Nmap -->
@@ -90,7 +90,7 @@
 
   <!-- Metasploit -->
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="Metasploit" width="40" height="40"/>
+    <img src="https://www.udemy.com/course/penetration-testing-with-metasploit-pro/?srsltid=AfmBOopcVZx1tZC8f-hpFrKXcwpNTAIbhN6q5_YkRPXDb1wVkXcoOhGj" alt="Metasploit" width="40" height="40"/>
   </a>
 
   <!-- Wireshark -->
