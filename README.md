@@ -18,27 +18,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
-  <!-- AWS -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -64,24 +43,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a>
 
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-
-  <!-- Heroku -->
-  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
   </a>
 
   <!-- Postman -->
@@ -111,7 +75,7 @@
 
   <!-- Kali Linux -->
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" alt="Kali Linux" width="40" height="40"/>
+    <img src="https://www.xda-developers.com/kali-linux/" alt="Kali Linux" width="40" height="40"/>
   </a>
 
   <!-- Burp Suite -->
