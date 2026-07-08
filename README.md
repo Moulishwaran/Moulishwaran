@@ -6,7 +6,7 @@
 
 
 
-- 💬 Ask me about 💬 Ask me about **Ethical Hacking | Penetration Testing | Web Security | Mobile Security | API Security | Network Security | VAPT | OWASP Top 10 | Burp Suite | Nmap | Metasploit | Wireshark | Kali Linux**
+- 💬 Ask me about **Ethical Hacking | Penetration Testing | Web Security | Mobile Security | API Security | Network Security | VAPT | OWASP Top 10 | Burp Suite | Nmap | Metasploit | Wireshark | Kali Linux**
 
 - 📫 How to reach me **moulish0809@gmail.com**
 
